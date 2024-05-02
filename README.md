@@ -11,6 +11,7 @@ Repositorio para armazenas resumos sobre Git e GitHub do curso Versionamento de 
 | Aulas | Resumos |
 |---------|-------------|
 | Gravando Alterações no Reposítorio Local | [Resumos](https://www.dio.me)|
+| Gravando Alterações no Reposítorio Local | [Resumos](https://www.dio.me)|
 
 ``` 
 git Innovation
@@ -18,4 +19,3 @@ git Innovation
 ## 🌲🌳 Refêrencias
 - [Digital Inovvation One](https://www.dio.me).
 
-Pedro aqui 
